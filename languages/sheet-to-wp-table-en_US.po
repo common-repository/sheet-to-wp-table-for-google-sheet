@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sheet to Table Live Sync for Google Sheet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-07 11:19+0000\n"
+"PO-Revision-Date: 2024-03-07 12:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: sheet-to-wp-table"
+
+#: admin/page-loader.php:62
+msgid " Premium"
+msgstr ""
+
+#: sheet-to-wp-table.php:126
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. %s: file location uri
+#: admin/pages/main-page.php:48
+#, php-format
+msgid "%s file is not founded!"
+msgstr ""
+
+#: app/service/shortcode.php:117
+msgid "_MENU_ _ENTRIES_ per page"
+msgstr ""
+
+#: admin/admin-loader.php:32
+msgid "Add New Table"
+msgstr ""
+
+#. Author of the plugin
+msgid "CodeAstrology Team"
+msgstr ""
+
+#: admin/page-loader.php:34 admin/pages/topbar.php:9
+msgid "Dashboard"
+msgstr ""
+
+#: admin/pages/topbar.php:47
+msgid "Documentation"
+msgstr ""
+
+#: app/service/shortcode.php:112
+msgid "Find Here"
+msgstr ""
+
+#: admin/page-loader.php:68 admin/page-loader.php:69
+#: admin/pages/steps/getting-start.php:5
+msgid "Getting Start"
+msgstr ""
+
+#: app/functions.php:12
+msgid "Helper doc"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeastrology.com/sheet-to-table-live-sync-from-google-sheet/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/codersaiful/#content-plugins"
+msgstr ""
+
+#: app/service/shortcode.php:116
+msgid "Loading Table...."
+msgstr ""
+
+#: app/service/shortcode.php:111
+msgid "No data available in table"
+msgstr ""
+
+#: app/service/shortcode.php:113
+msgid "No matching records found"
+msgstr ""
+
+#: admin/pages/topbar.php:28
+msgid "Premium"
+msgstr ""
+
+#: app/service/post/meta-box.php:121
+msgid "Refresh time(seconds)"
+msgstr ""
+
+#: admin/pages/steps/getting-start.php:41
+msgid "Setup guide - step by step"
+msgstr ""
+
+#: admin/page-loader.php:53 admin/page-loader.php:54 admin/pages/topbar.php:23
+msgid "Sheet to Table"
+msgstr ""
+
+#. Name of the plugin
+#: sheet-to-wp-table.php:43
+msgid "Sheet to Table Live Sync for Google Sheet"
+msgstr ""
+
+#: app/service/post/meta-box.php:101
+msgid "Sheet URL"
+msgstr ""
+
+#: app/service/shortcode.php:115
+msgid "Showing 0 to 0 of 0 _ENTRIES-TOTAL_"
+msgstr ""
+
+#: app/service/shortcode.php:114
+msgid "Showing _START_ to _END_ of _TOTAL_ _ENTRIES-TOTAL_"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Sync Google Sheets live on WordPress. Lightning-fast, cached tables using "
+"shortcodes or the intuitive Dashboard interface. Effortlessly display "
+"dynamic data, enhancing your site's functionality."
+msgstr ""
+
+#: admin/page-loader.php:154
+msgid "Thank you for using our Plugin"
+msgstr ""
+
+#: app/service/post/meta-box.php:111
+msgid "Tutorial"
+msgstr ""
+
+#: sheet-to-wp-table.php:128
+msgid "WooCommerce"
+msgstr ""
+
+#: app/service/post/meta-box.php:76
+msgid "Your Shortcode"
+msgstr ""
